@@ -1,5 +1,5 @@
 <H1 align='center'>Hi👋, I am Blessed!</H1>
-<p align='center'>I am a Backend developer demystifying blah blah.</p>
+<p align='center'>I am a A software engineer with 3+ years experience tasked with demystifying the amazing world of performant systems by designing and building high-quality backend services.</p>
 
 <p align='center'>
 <a href="https://mblessed.tech">
