@@ -23,7 +23,7 @@
 - 🤝 Open for collaborations in apps or projects with Golang or Python.
 - 🖊 I occasionally write on hashnode (<a href="https://mblessed.hashnode.dev/">Blog</a>)
 - 💬 Ask me about Golang or Python
-- ⚡ Fun fact: I love sports and reading books on fiction 🤩
+- ⚡ Fun fact: I love sports and reading books 🤩
 
 ---
 
