@@ -17,7 +17,6 @@
 <a href="https://www.linkedin.com/in/blessed-madukoma/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
 </p>
 
 - 🤝 Open for collaborations in apps or projects with Golang or Python.
@@ -38,19 +37,21 @@
 ![Vue](https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js)&nbsp;
 
 ---
+<b>☁️ Databases</b>
 
-#### 🗳 Databases
 ![PostgreSQL](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F19011)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite)&nbsp;
-###
+
 ---
-#### ☁ Hosting
+**☁ Hosting**
+
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
-###
+
 ---
-#### ☁ Tools
+**🧰 Tools**
+
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
