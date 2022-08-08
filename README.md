@@ -22,25 +22,40 @@
 
 - 🤝 Open for collaborations in apps or projects with Golang or Python.
 - 🖊 I occasionally write on hashnode (<a href="https://mblessed.hashnode.dev/">Blog</a>)
-- 💬 Ask me about Golang or Python
+- 💬 Ask me about Golang or Python, or a litle bit of JS😉
 - ⚡ Fun fact: I love sports and reading books 🤩
 
 ---
 
 🛠 <b>Tech Stack</b>
 
-![Go](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=29B6F6)&nbsp;
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=blue)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=blue)&nbsp;
+![Go](https://img.shields.io/badge/-Golang-29BEB0?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js)&nbsp;
 
 ---
 
+#### 🗳 Databases
+![PostgreSQL](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F19011)&nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite)&nbsp;
+###
+---
+#### ☁ Hosting
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
+###
+---
+#### ☁ Tools
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+###
+---
 📖 <b>Recent Blog Posts</b>
 
 - ✔ <a href="https://mblessed.hashnode.dev/go-embed-embed-your-frontendhtml-in-golang">https://mblessed.hashnode.dev/go-embed-embed-your-frontendhtml-in-golang</a>
