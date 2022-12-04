@@ -35,6 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![TAILWIND](https://img.shields.io/badge/tailwind-%231552B9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js)&nbsp;
 
 ---
@@ -60,7 +61,8 @@
 ---
 📖 <b>Recent Blog Posts</b>
 
-- ✔ <a href="https://mblessed.hashnode.dev/go-embed-embed-your-frontendhtml-in-golang">https://mblessed.hashnode.dev/go-embed-embed-your-frontendhtml-in-golang</a>
+- ✔ <a href="https://blog.mblessed.tech/deploy-go-api-to-koyeb">Deploy Go API to Koyeb (An Heroku Alternative)</a>
+- 🔬 <a href="https://mblessed.hashnode.dev/go-embed-embed-your-frontendhtml-in-golang">Embed HTML frontend in Go: Go Embed</a>
 - 🔗 <a href="https://mblessed.hashnode.dev/getting-started-with-golang-web-application-and-authentication-part-1">Getting started with Golang web application (and authentication) Part 1</a>
 <!-- - 🧫 <a href="https://o-ifeanyi.hashnode.dev/writing-integration-test-in-flutter">Writing Integration Test In Flutter</a>  
 - 🔬 <a href="https://o-ifeanyi.hashnode.dev/writing-widget-test-in-flutter">Writing Widget Test In Flutter</a>  
