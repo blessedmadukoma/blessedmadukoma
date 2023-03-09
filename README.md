@@ -31,12 +31,13 @@
 
 ![Go](https://img.shields.io/badge/-Golang-29BEB0?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![TAILWIND](https://img.shields.io/badge/tailwind-%231552B9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![ReactJS](https://img.shields.io/badge/-react.JS-323330?style=for-the-badge&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.JS-35495E?style=for-the-badge&logo=next.js)&nbsp;
+<!-- ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask)&nbsp; -->
 <!-- ![Vue](https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js)&nbsp; -->
 
 ---
@@ -49,8 +50,9 @@
 ---
 **☁ Hosting**
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-323330?style=for-the-badge&logo=vercel&logoColor=#00C7B7)&nbsp;
 
 ---
 **🧰 Tools**
@@ -77,3 +79,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=blessedmadukoma&show_icons=true&theme=tokyonight&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blessedmadukoma&hide=css,java,php,blade,shell,dockerfile,html&theme=tokyonight">
 </p>
+
+<!-- My GitHub streaks -->
+<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blessedmadukoma&theme=highcontrast" alt="Blessed's Github streak" />
+</a>
