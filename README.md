@@ -2,7 +2,7 @@
 <p align='center'>I am a software engineer with 4+ years experience tasked with demystifying the amazing world of performant systems by designing and building high-quality backend services.</p>
 
 <p align='center'>
-<a href="https://mblessed.tech">
+<a href="https://mblessed.vercel.app">
   <img src="https://img.shields.io/badge/Website-FFFFFF.svg?&style=for-the-badge" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/sk1_ll3">
