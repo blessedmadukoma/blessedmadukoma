@@ -1,5 +1,5 @@
 <H1 align='center'>Hi👋, I am Blessed!</H1>
-<p align='center'>I am a software engineer with 3+ years experience tasked with demystifying the amazing world of performant systems by designing and building high-quality backend services.</p>
+<p align='center'>I am a software engineer with 4+ years experience tasked with demystifying the amazing world of performant systems by designing and building high-quality backend services.</p>
 
 <p align='center'>
 <a href="https://mblessed.tech">
@@ -35,10 +35,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![TAILWIND](https://img.shields.io/badge/tailwind-%231552B9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-react.JS-323330?style=for-the-badge&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.JS-35495E?style=for-the-badge&logo=next.js)&nbsp;
 <!-- ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask)&nbsp; -->
-<!-- ![Vue](https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js)&nbsp; -->
 
 ---
 <b>☁️ Databases</b>
@@ -48,7 +48,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite)&nbsp;
 
 ---
-**☁ Hosting**
+**☁ Hosting/Deployments**
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
@@ -60,6 +60,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230002A0?style=for-the-badge&logo=docker)
 ###
 ---
 📖 <b>Recent Blog Posts</b>
@@ -73,12 +74,17 @@
 
 ---
 
-📈 <b>My Github Stats</b>
+📈 <b>My Stats</b>
 
-<p align = "center">
+<div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=blessedmadukoma&show_icons=true&theme=tokyonight&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blessedmadukoma&hide=css,java,php,blade,shell,dockerfile,html&theme=tokyonight">
-</p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blessedmadukoma&hide=css,blade,shell,html&theme=tokyonight">
+</div>
+
+<!-- <p>My weekly language stats based on Wakatime</p>
+<a href="https://github.com/blessedmadukoma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=blessedmadukoma" />
+</a> -->
 
 <!-- My GitHub streaks -->
 <img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blessedmadukoma&theme=highcontrast" alt="Blessed's Github streak" />
