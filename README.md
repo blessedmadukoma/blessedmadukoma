@@ -1,5 +1,5 @@
 <H1 align='center'>Hi👋, I am Blessed!</H1>
-<p align='center'>I am a software engineer with 4+ years experience tasked with demystifying the amazing world of performant systems by designing and building high-quality backend services.</p>
+<p align='center'>I am a software engineer with 3+ years of experience tasked with demystifying the amazing world of performant systems by designing and building high-quality backend services.</p>
 
 <p align='center'>
 <a href="https://mblessed.vercel.app">
@@ -21,8 +21,8 @@
 </p>
 
 - 🤝 Open for collaborations in apps or projects with Golang or Python.
-- 🖊 I occasionally write on hashnode (<a href="https://mblessed.hashnode.dev/">Blog</a>)
-- 💬 Ask me about Golang or Python, or a litle bit of JS😉
+- 🖊 I occasionally write on Hashnode (<a href="https://mblessed.hashnode.dev/">Blog</a>)
+- 💬 Ask me about Golang or Python, or a little bit of JS😉
 - ⚡ Fun fact: I love sports and reading books 🤩
 
 ---
