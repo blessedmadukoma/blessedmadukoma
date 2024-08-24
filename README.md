@@ -1,5 +1,5 @@
 <H1 align='center'>Hi👋, I am Blessed!</H1>
-<p align='center'>I am a software engineer with 3+ years of experience tasked with demystifying the amazing world of performant systems by designing and building high-quality backend services.</p>
+<p align='center'>I am a data-driven software engineer with 3+ years of experience tasked with demystifying the amazing world of performant systems by designing and building high-quality software services.</p>
 
 <p align='center'>
 <a href="https://mblessed.vercel.app">
@@ -20,10 +20,10 @@
 <!-- <img src="https://gpvc.arturio.dev/blessedmadukoma"> -->
 </p>
 
-- 🤝 Open for collaborations in apps or projects with Golang or Python.
-- 🖊 I occasionally write on Hashnode (<a href="https://mblessed.hashnode.dev/">Blog</a>)
-- 💬 Ask me about Golang or Python, or a little bit of JS😉
-- ⚡ Fun fact: I love sports and reading books 🤩
+- 🤝 Open for collaborations in apps or projects (both software and data engineering) with Golang, Python or JS.
+- 🖊 An occasional <a href="https://mblessed.hashnode.dev/" target="_blank">writer</a>.
+- 💬 Ask me about Software development or my fascinating journey into [Data Engineering](https://mblessed.hashnode.dev/a-journey-into-data-engineering)😉
+- ⚡ Fun fact: I love sports and reading books🤩
 
 ---
 
@@ -58,18 +58,18 @@
 **🧰 Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![Git](https://img.shields.io/badge/-Git-12342C?style=for-the-badge&logo=git)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230002A0?style=for-the-badge&logo=docker)
 ###
 ---
 📖 <b>Recent Blog Posts</b>
 
+- 🧫 <a href="https://mblessed.hashnode.dev/a-journey-into-data-engineering">My journey into Data Engineering</a>  
 - ✔ <a href="https://blog.mblessed.tech/deploy-go-api-to-koyeb">Deploy Go API to Koyeb (An Heroku Alternative)</a>
 - 🔬 <a href="https://mblessed.hashnode.dev/go-embed-embed-your-frontendhtml-in-golang">Embed HTML frontend in Go: Go Embed</a>
 - 🔗 <a href="https://mblessed.hashnode.dev/getting-started-with-golang-web-application-and-authentication-part-1">Getting started with Golang web application (and authentication) Part 1</a>
-<!-- - 🧫 <a href="https://o-ifeanyi.hashnode.dev/writing-integration-test-in-flutter">Writing Integration Test In Flutter</a>  
-- 🔬 <a href="https://o-ifeanyi.hashnode.dev/writing-widget-test-in-flutter">Writing Widget Test In Flutter</a>  
+<!-- - 🔬 <a href="https://o-ifeanyi.hashnode.dev/writing-widget-test-in-flutter">Writing Widget Test In Flutter</a>  
 - 🧪 <a href="https://o-ifeanyi.hashnode.dev/writing-unit-test-in-flutter-with-mockito">Writing Unit Test In Flutter With Mockito</a> -->
 
 ---
