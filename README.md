@@ -69,10 +69,13 @@ demonstrating a commitment to collaboration and tailored solutions.</p>
 ---
 📖 <b>Recent Blog Posts</b>
 
-- ✔ <a href="https://blog.mblessed.tech/deploy-go-api-to-koyeb">Deploy Go API to Koyeb (An Heroku Alternative)</a>
-- 🔬 <a href="https://mblessed.hashnode.dev/go-embed-embed-your-frontendhtml-in-golang">Embed HTML frontend in Go: Go Embed</a>
+- 🔗 <a href="https://mblessed.hashnode.dev/2025-committing-to-building-my-dreams-and-building-shamelessly">2025 Commitment: Building my dreams, building shamelessly!</a>
+- 🔬 <a href="https://mblessed.hashnode.dev/a-journey-into-data-engineering">A journey into Data Engineering</a>
+- 🧫 <a href="https://blog.mblessed.tech/deploy-go-api-to-koyeb">Deploy Go API to Koyeb (An Heroku Alternative)</a>
+
+<!-- - 🔬 <a href="https://mblessed.hashnode.dev/go-embed-embed-your-frontendhtml-in-golang">Embed HTML frontend in Go: Go Embed</a>
 - 🔗 <a href="https://mblessed.hashnode.dev/getting-started-with-golang-web-application-and-authentication-part-1">Getting started with Golang web application (and authentication) Part 1</a>
-<!-- - 🧫 <a href="https://o-ifeanyi.hashnode.dev/writing-integration-test-in-flutter">Writing Integration Test In Flutter</a>  
+- 🧫 <a href="https://o-ifeanyi.hashnode.dev/writing-integration-test-in-flutter">Writing Integration Test In Flutter</a>  
 - 🔬 <a href="https://o-ifeanyi.hashnode.dev/writing-widget-test-in-flutter">Writing Widget Test In Flutter</a>  
 - 🧪 <a href="https://o-ifeanyi.hashnode.dev/writing-unit-test-in-flutter-with-mockito">Writing Unit Test In Flutter With Mockito</a> -->
 
