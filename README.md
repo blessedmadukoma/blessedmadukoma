@@ -1,93 +1,115 @@
-<h1 align='center'>Hi👋🏿, I am Blessed!</h1>
-<p>I am a data-driven engineer with 3+ years of excellent software engineering experience transforming complex data into user-friendly
-solutions that drive customer success across various industries—delivered and maintained over 10 projects for 4+ companies,
-demonstrating a commitment to collaboration and tailored solutions.</p>
+<h1>Hi 👋🏿, I'm Blessed!</h1>
 
 <p>
-<a href="https://mblessed.tech">
-  <img src="https://img.shields.io/badge/Website-FFFFFF.svg?&style=for-the-badge" />
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/sk1_ll3">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:blessedmadukoma@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://mblessed.hashnode.dev/">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/blessed-madukoma/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<!-- <img src="https://gpvc.arturio.dev/blessedmadukoma"> -->
+  <b>Software Engineer — Backend Systems · Data Pipelines · Observability</b><br/>
+  Building observable backend systems and data products — then writing about how they work
 </p>
 
-- 🤝 Open for collaborations in apps or projects with Golang or Python.
-- 🖊 I occasionally <a href="https://mblessed.hashnode.dev/">write</a>.
-- 💬 Ask me about Golang, Python, Data Engineering or JS 😉
-- ⚡ Fun fact: I love sports and reading books 🤩
+<p>
+  <a href="https://mblessed.tech">
+    <img src="https://img.shields.io/badge/Website-FFFFFF.svg?&style=for-the-badge" />
+  </a>&nbsp;&nbsp;
+  <a href="https://mblessed.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/blessedmadukoma/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:blessedmadukoma@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <!-- <a href="https://twitter.com/sk1_ll3">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> -->
+</p>
 
 ---
 
-🛠 <b>Tech Stack</b>
+### About Me
+
+- 🔧 Backend engineer working in **Go** and **Python (FastAPI)** — I build systems that are reliable in production, not just on my machine
+- 📊 I design and build **data pipelines** that turn raw, messy data into something meaningful — for developers, policymakers, and users
+- 👁 I care about **observability** — Grafana, Prometheus, Loki — making systems visible and debuggable
+- 🏗 I'm a sucker for **systems design** — breaking complex problems into simpler, elegant pieces
+- 🚀 Building [**Sedge**](https://www.sedge.app) — a data infrastructure platform
+<!-- - 🎓 MSc in Information Technology (SWE + Big Data) @ **Carnegie Mellon University** (May 2026)
+- 📄 Published at **NeurIPS 2025** (WiML Workshop) on COVID-19 vulnerability mapping -->
+- ✍🏾 I write about backend systems, data engineering, and the hard parts — [Hashnode](https://mblessed.hashnode.dev/)
+- ⚡ Fun fact: I love sports, reading, and I built an anomaly detection [platform](https://mblessed.hashnode.dev/) with over **1.5M+ athletics records**
+
+---
+
+### 🛠 Backend & Languages
 
 ![Go](https://img.shields.io/badge/-Golang-29BEB0?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+---
+
+### ⚙️ Frameworks & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-35495E?style=for-the-badge&logo=vue.js)&nbsp;
 ![Nuxt](https://img.shields.io/badge/-Nuxt-35495E?style=for-the-badge&logo=nuxt.js)&nbsp;
-![TAILWIND](https://img.shields.io/badge/tailwind-%231552B9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![ReactJS](https://img.shields.io/badge/-react.JS-323330?style=for-the-badge&logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-Next.JS-35495E?style=for-the-badge&logo=next.js)&nbsp;
-<!-- ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask)&nbsp; -->
+![Tailwind](https://img.shields.io/badge/tailwind-%231552B9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![HTMX](https://img.shields.io/badge/HTMX-36C?style=for-the-badge&logo=htmx&logoColor=white)&nbsp;
 
 ---
-<b>☁️ Databases</b>
+
+### 👁 Observability Stack
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)&nbsp;
+![Loki](https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
+
+---
+
+### 🗄 Databases
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F19011)&nbsp;
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)&nbsp;
+<!-- ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F19011)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; -->
 
 ---
-**☁ Cloud And Hosting**
 
-![AWS](https://img.shields.io/badge/AWS-323330?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)&nbsp;
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-323330?style=for-the-badge&logo=vercel&logoColor=#00C7B7)&nbsp;
+### ☁️ Infrastructure & DevOps
 
----
-**🧰 Tools**
-
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-###
----
-📖 <b>Recent Blog Posts</b>
-
-- 🔗 <a href="https://mblessed.hashnode.dev/2025-committing-to-building-my-dreams-and-building-shamelessly">2025 Commitment: Building my dreams, building shamelessly!</a>
-- 🔬 <a href="https://mblessed.hashnode.dev/a-journey-into-data-engineering">A journey into Data Engineering</a>
-- 🧫 <a href="https://blog.mblessed.tech/deploy-go-api-to-koyeb">Deploy Go API to Koyeb (An Heroku Alternative)</a>
-
-<!-- - 🔬 <a href="https://mblessed.hashnode.dev/go-embed-embed-your-frontendhtml-in-golang">Embed HTML frontend in Go: Go Embed</a>
-- 🔗 <a href="https://mblessed.hashnode.dev/getting-started-with-golang-web-application-and-authentication-part-1">Getting started with Golang web application (and authentication) Part 1</a>
-- 🧫 <a href="https://o-ifeanyi.hashnode.dev/writing-integration-test-in-flutter">Writing Integration Test In Flutter</a>  
-- 🔬 <a href="https://o-ifeanyi.hashnode.dev/writing-widget-test-in-flutter">Writing Widget Test In Flutter</a>  
-- 🧪 <a href="https://o-ifeanyi.hashnode.dev/writing-unit-test-in-flutter-with-mockito">Writing Unit Test In Flutter With Mockito</a> -->
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-323330?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;
 
 ---
 
-📈 <b>My Github Stats</b>
+### 🧰 Tools
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=blessedmadukoma&show_icons=true&theme=tokyonight&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blessedmadukoma&hide=css,java,php,blade,shell,dockerfile,html&theme=tokyonight">
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
+---
+
+### ✍️ Recent Writing
+
+- 🔬 [Performance Anomaly Detection in Athletics — how I built it](https://mblessed.hashnode.dev)
+- 🏗 [2025 Commitment: Building my dreams, building shamelessly](https://mblessed.hashnode.dev/2025-committing-to-building-my-dreams-and-building-shamelessly)
+- 📊 [A journey into Data Engineering](https://mblessed.hashnode.dev/a-journey-into-data-engineering)
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=blessedmadukoma&show_icons=true&theme=tokyonight&line_height=40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessedmadukoma&hide=css,java,php,blade,shell,dockerfile,html&theme=tokyonight" />
 </p>
-
 <!-- My GitHub streaks -->
-<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blessedmadukoma&theme=highcontrast" alt="Blessed's Github streak" />
-</a>
+<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blessedmadukoma&theme=highcontrast" alt="Github streak" />
