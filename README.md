@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <a href="https://mblessed.tech">
+  <a href="https://mblessed.space">
     <img src="https://img.shields.io/badge/Website-FFFFFF.svg?&style=for-the-badge" />
   </a>&nbsp;&nbsp;
   <a href="https://mblessed.hashnode.dev/">
@@ -35,7 +35,7 @@
 <!-- - 🎓 MSc in Information Technology (SWE + Big Data) @ **Carnegie Mellon University** (May 2026)
 - 📄 Published at **NeurIPS 2025** (WiML Workshop) on COVID-19 vulnerability mapping -->
 - ✍🏾 I write about backend systems, data engineering, and the hard parts — [Hashnode](https://mblessed.hashnode.dev/)
-- ⚡ Fun fact: I love sports, reading, and I built an anomaly detection [platform](https://mblessed.hashnode.dev/) with over **1.5M+ athletics records**
+- ⚡ Fun fact: I love sports, reading, and I built an anomaly detection [platform](https://athletics-performance.mblessed.space) with over **1.5M+ athletics records**
 
 ---
 
