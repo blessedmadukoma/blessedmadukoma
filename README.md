@@ -1,7 +1,7 @@
 <h1>Hi 👋🏿, I'm Blessed!</h1>
 
 <p>
-  <b>Software Engineer & Researcher · Production AI Systems · Data Systems · Analytics Infrastructure</b><br/>
+  <b>Software Engineer & Researcher: Production AI Systems · Data Systems · Sports & Analytics Infrastructure</b><br/>
   I build systems that stay reliable after they leave the laboratory, then write about how they behave.
 </p>
 
