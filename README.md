@@ -1,8 +1,8 @@
 <h1>Hi 👋🏿, I'm Blessed!</h1>
 
 <p>
-  <b>Research and Software Engineer: AI-generated Workloads · Data Systems · Research Engineering</b><br/>
-  I build data systems and study the infrastructure needed to run AI-generated workloads reliably.
+  <b>Software Engineer and Researcher: AI-Powered Data Systems · LLM Agents · Research Engineering</b><br/>
+  I study how to keep AI-powered data systems correct as data, definitions, access rules and tools change, and what that costs.
 </p>
 
 <p>
@@ -15,7 +15,7 @@
   <a href="https://scholar.google.com/citations?user=r2TGbRkAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/blessedmadukoma/">
+  <a href="https://www.linkedin.com/in/blessed-madukoma/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="mailto:blessedmadukoma@gmail.com">
@@ -27,31 +27,35 @@
 
 ### About
 
-I am a software engineer and systems researcher studying **infrastructure for reliable AI-generated workloads**, from one-off programs to multi-step pipelines that work with tabular and other data.
+I am a software engineer and researcher: building AI agents and data systems, and studying **the errors that make their answers wrong without anyone noticing**. A correct answer matches complete, up-to-date data, or it says clearly that it is incomplete.
 
 My current research asks:
 
-> How can a system derive and check the data requirements of short-lived Python programs over tabular data before an AI agent runs them?
+> When something an answer depends on changes, which answers become wrong, and what is the cheapest way to fix or flag them?
 
-Building my athletics anomaly-detection system required tracing each detected anomaly to its source records so I could verify the result. This showed me that reliable outputs depend on valid data and led to my current work on pre-execution checks.
+Building my athletics anomaly-detection system required tracing each flag to its source records so investigators could check it: a flag is a lead, not a verdict. AI agents need the same rule. People act on what a data system reports, so the system must show what its answer rests on.
 
-- 🔬 Graduate Research Associate at **Carnegie Mellon University Africa’s SaLT Lab**
-- 🧪 Completed empirical pilots on agent traces, semantic monitoring, and autonomous data discovery
+- 🧪 Studied AI agents that write code to analyse data: [what their traces do not record](https://github.com/blessedmadukoma/data-agent-traces) and [whether they know when they cannot see all the data](https://www.mblessed.space/blog/does-an-ai-agent-know-when-it-cannot-see-all-the-data)
+- 🤖 Building a Fantasy Premier League agent with traces and evals, used by five testers
 - 🏗 Backend engineer working mainly with **Go** and **Python**
 - 📊 Builder of data, analytics, and research infrastructure
 - 🎓 **MSc Information Technology**, Carnegie Mellon University
-- 🚀 Building [**Sedge**](https://sedge.app), a data workspace for context-aware analysis
+- 🚀 Building [**Sedge**](https://sedge.app), a data operating system that uses AI to answer questions about a company's data
 - ✍🏿 Writing about research results, failed experiments, software, and data systems at [mblessed.space](https://mblessed.space)
 
 ---
 
-### Current research
+### What I have found
 
-I am studying whether exact data checks can detect failures before agent-generated programs run.
+With Prof. Prasenjit Mitra at CMU Africa's SaLT Lab, I studied AI agents that write code to analyse data.
 
-I have completed an initial study of [DuckDQ](https://ssc.io/pdf/duckdq.pdf) and [PrismaDV](https://arxiv.org/abs/2604.21765). My next step is to inspect failed and successful DABstep executions, classify their failure causes, and test whether a justified pre-execution check could detect a real source-data failure.
+- **Logs can blame the model for the software around it.** In DataAgentBench's public logs, that software made 21.6% of the agents' code steps fail, and the logs showed these failures as the model's own. Removing them changed how six models ranked ([code](https://github.com/blessedmadukoma/data-agent-traces)).
+- **Errors the model can see are the smaller problem.** A checker that stops code from using columns or files that do not exist raised accuracy by only 0.68 points. A clear error message worked as well.
+- **Errors the model cannot see stay silent.** When access rules hid some rows and the model was not told, cheaper models presented incomplete answers as complete in 70–95% of affected cases ([study](https://www.mblessed.space/blog/does-an-ai-agent-know-when-it-cannot-see-all-the-data)).
 
-In parallel, I am prototyping schema-aware validation for generated SQL in Sedge using [GoSQLX](https://github.com/ajitpratap0/GoSQLX).
+Better models will keep fixing errors they can see. They cannot fix what the data does not show, such as a definition that changed or rows they may not read. My Fantasy Premier League agent once reported the wrong scores for a footballer while its log showed a successful step.
+
+I am now working on the question above in [Sedge](https://sedge.app).
 
 ---
 
@@ -59,7 +63,7 @@ In parallel, I am prototyping schema-aware validation for generated SQL in Sedge
 
 **Performance Anomaly Detection in Athletics: A Benchmarking System with Visual Analytics**  
 Blessed Madukoma and Prasenjit Mitra. IEEE Swiss Conference on Data Science and AI, 2026.  
-🏅 *Honorable Mention, Best Full Paper.*
+🏅 *Honorable Mention – Best Paper Award.*
 
 [Paper](https://ieeexplore.ieee.org/document/11540487) · [arXiv](https://arxiv.org/abs/2604.21953) · [Live system](https://athletics-performance.mblessed.space)
 
@@ -83,12 +87,12 @@ Tested how a structurally valid output from a changed AI component can cause an 
 ### Selected engineering work
 
 **[Sedge](https://sedge.app)**  
-Building a data workspace that combines natural-language and SQL analysis with schema and metadata context.
+Building a data operating system that uses AI to answer questions about a company's data, with every AI-written query checked before it runs.
 
 `Go` `SQL` `PostgreSQL`
 
 **[Athletics Performance Anomaly Detection](https://athletics-performance.mblessed.space)**  
-Built a benchmarking platform over 1.5M+ track and field performances from 19,000+ competitions between 2010 and 2025. It compares 14 statistical, machine-learning, and Bayesian methods and validates detected anomalies against publicly confirmed Athletics Integrity Unit sanctions.
+Built a benchmarking platform over 1.5M+ track and field performances from 19,000+ competitions between 2010 and 2025. It compares 8+ statistical, machine-learning, and Bayesian methods and validates detected anomalies against publicly confirmed Athletics Integrity Unit sanctions. Each flag links to its evidence.
 
 `Python` `FastAPI` `HTMX` `PostgreSQL` `DuckDB` `Redis` `Docker` `Ansible`
 
