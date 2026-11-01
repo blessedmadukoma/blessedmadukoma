@@ -32,9 +32,18 @@
 
 I am a software engineer and researcher: building AI agents and data systems, and studying **the errors that make their answers wrong without anyone noticing**. A correct answer matches complete, up-to-date data, or it says clearly that it is incomplete.
 
-My current research asks:
+One question connects my work:
 
-> When something an answer depends on changes, which answers become wrong, and what is the cheapest way to fix or flag them?
+> When can people (in business and research) trust an answer computed from data?
+
+It has three parts:
+
+- **Meaning.** Keeping what a name such as "active customer" means the same for every person and program that uses it.  
+  *Research: ontologies and data integration. Industry: semantic layers and shared metric definitions.*
+- **Change.** Finding which answers already given become wrong or no longer allowed when data, definitions or access rules change, at a cost that grows with the change, not with the history.  
+  *Research: incremental view maintenance. Industry: keeping AI answers, caches and reports current.*
+- **Support.** Deciding what evidence must come with an answer so that someone else can check it.  
+  *Research: data provenance. Industry: agent observability and audit logs.*
 
 Building my athletics anomaly-detection system required tracing each flag to its source records so investigators could check it: a flag is a lead, not a verdict. AI agents need the same rule. People act on what a data system reports, so the system must show what its answer rests on.
 
@@ -50,15 +59,15 @@ Building my athletics anomaly-detection system required tracing each flag to its
 
 ### What I have found
 
-With Prof. Prasenjit Mitra at CMU Africa's SaLT Lab, I studied AI agents that write code to analyse data.
+With Prof. Prasenjit Mitra at CMU Africa's SaLT Lab, I studied AI agents that write code to analyse data, and I have continued this work since.
 
-- **Logs can blame the model for the software around it.** In DataAgentBench's public logs, that software caused 37% of the recorded failures (16,293 of 44,277; 21.6% of all code steps), and the logs showed these failures as the model's own. Removing them changed how six models ranked ([code](https://github.com/blessedmadukoma/data-agent-traces)).
+- **Logs can hide what the harness did.** The harness is the software that runs the model's code. In DataAgentBench's public logs, it made 21.6% of Python steps fail, and the logs blamed the model ([code](https://github.com/blessedmadukoma/data-agent-traces)). Every smolagents version from 1.0 to 1.26 silently swaps a missing variable for a similar one and logs success.
 - **Errors the model can see are the smaller problem.** Across 36,990 pre-registered runs, a checker that stops code from using columns or files that do not exist cut the number of these errors that reached execution from 3,316 to 2 for gpt-oss-120b, but raised accuracy by only 0.68 points. A clear error message worked as well.
 - **Errors the model cannot see stay silent.** When access rules hid some rows and the model was not told, cheaper models presented incomplete answers as complete in 70–95% of affected cases ([study](https://www.mblessed.space/blog/does-an-ai-agent-know-when-it-cannot-see-all-the-data)).
 
 Better models will keep fixing errors they can see. They cannot fix what the data does not show, such as a definition that changed or rows they may not read. My Fantasy Premier League agent once reported the wrong scores for a footballer while its log showed a successful step.
 
-I am now working on the question above in [Sedge](https://sedge.app).
+I study these questions in my research and build them into [Sedge](https://sedge.app).
 
 ---
 
