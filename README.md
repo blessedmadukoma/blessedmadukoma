@@ -1,6 +1,6 @@
 <h1>Hi 👋🏿, I'm Blessed!</h1>
 
-Software and research engineer in Kigali, Rwanda. MS in Information Technology, Carnegie Mellon University (Kigali campus), 2026.
+Software and research engineer in Kigali, Rwanda. MS in Information Technology, Carnegie Mellon University, 2026.
 
 ### What I research
 
@@ -20,6 +20,8 @@ The [interactive map](https://www.mblessed.space) is on my site (Research statem
 **Athletics anomaly detection (MS thesis).** I crawled 1.58M World Athletics results from 19,712 competitions (2010–2025) and compared 8 statistical and machine-learning detectors against Athletics Integrity Unit sanctions. IEEE SDS 2026, Best Paper Honorable Mention. [Paper](https://ieeexplore.ieee.org/document/11540487) · [arXiv:2604.21953](https://arxiv.org/abs/2604.21953)
 
 **MININFRA (Rwanda's Ministry of Infrastructure).** I architected ClickHouse pipelines and a Grafana dashboard for the national infrastructure intelligence platform, built for planners and investors.
+
+**Sedge ([sedge.app](https://sedge.app)).** I built the Go backend of a text-to-SQL data platform and its query guardrail: one read-only SELECT, allow-listed functions, a 15 s timeout and a 10,000-row cap. It blocked all 61 attack queries written to test it.
 
 **Research results.**
 - Semantic-layer pilot on BIRD: with two code meanings swapped in the description an agent reads, all 9 runs across 3 models returned the wrong count, with no warning.
