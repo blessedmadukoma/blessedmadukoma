@@ -8,8 +8,10 @@ The data layer for AI agents. Before an agent writes a query, it reads a semanti
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/research-map-dark.svg">
-  <img src="assets/research-map.svg" alt="Research map. One question: when can someone act on an answer computed from data, and which changes to the system make that true more often, at a cost they can afford? Four parts: Meaning (current focus), Scope, Evidence and Change (planned).">
+  <img src="assets/research-map.svg" alt="Isometric research map of data systems for AI agents: People and agents, Agent, Meaning, Data, Definition check, Change over time and Infrastructure. An animation follows one BIRD question: two code definitions were swapped, the agent answered 22 instead of 13 with no warning, and a definition check would have caught the swap.">
 </picture>
+
+The [interactive map](https://www.mblessed.space) is on my site (Research statement, then Map). Icons: the Isoflow isopacks (MIT, see [attribution](assets/ATTRIBUTION.txt)).
 
 ### Selected work
 
