@@ -1,31 +1,36 @@
 <h1>Hi 👋🏿, I'm Blessed!</h1>
 
-Software and research engineer in Kigali, Rwanda. MS in Information Technology, Carnegie Mellon University, 2026.
+I'm a software and research engineer in Kigali, Rwanda (MS in Information Technology, Carnegie Mellon University, 2026). I build backend and data systems, and I research when AI agents give wrong answers about data, and how to catch them. Open to remote roles in backend, data and AI engineering.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,ts,fastapi,postgres,redis,docker,githubactions,grafana" alt="Python, Go, TypeScript, FastAPI, PostgreSQL, Redis, Docker, GitHub Actions, Grafana">
+</p>
+
+### What I build
+
+**Billing engine, SLS Energy (2026).** Python, FastAPI and PostgreSQL. It turns each site's daily energy readings into tariff-based PDF invoices for 9 client organisations, and it cut invoicing from 15+ days after month-end to two. Days without a meter reading are left out, never estimated.
+
+**Infrastructure intelligence platform, MININFRA (2025).** I architected the ClickHouse pipelines and the Grafana dashboard of Rwanda's national platform for infrastructure data, built for planners and investors.
+
+**[Sedge](https://sedge.app).** The Go backend of a text-to-SQL data platform, and its query guardrail: one read-only SELECT, allow-listed functions, a 15 s timeout and a 10,000-row cap. It blocked all 61 attack queries written to test it.
+
+**Athletics anomaly detection (MS thesis).** A platform over 1.58M World Athletics results from 19,712 competitions (2010–2025) that compares 8 statistical and machine-learning detectors against Athletics Integrity Unit sanctions. IEEE SDS 2026, Best Paper Honorable Mention. [Paper](https://ieeexplore.ieee.org/document/11540487) · [arXiv:2604.21953](https://arxiv.org/abs/2604.21953)
+
+Earlier: payment services in Go and TypeScript as a contract developer for Platnova and PassportMonie (2024).
 
 ### What I research
 
-The data layer for AI agents. Before an agent writes a query, it reads a semantic layer: definitions of what the codes and terms in the data mean. I study whether those definitions match the data, and I am working on checks that catch incorrect ones. [First pilot and its limits](https://www.mblessed.space/blog/semantic-layer-errors).
+The data layer for AI agents. Before an agent writes a query, it reads definitions of what the codes and terms in the data mean. When a definition is wrong, the query still runs and the answer still looks right. I measure how often this happens and build checks that catch it.
+
+- **Wrong definitions.** On BIRD, with two code meanings swapped in the definitions an agent reads, all 9 runs across 3 models returned the wrong count, with no warning. [Write-up](https://www.mblessed.space/blog/semantic-layer-errors)
+- **Hidden rows.** Under PostgreSQL row-level security, three cheaper models presented partial answers as complete in 70–95% of affected cases. [Report](https://www.mblessed.space/blog/does-an-ai-agent-know-when-it-cannot-see-all-the-data)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/research-map-dark.svg">
   <img src="assets/research-map.svg" alt="Isometric research map of data systems for AI agents: People and agents, Agent, Meaning, Data, Definition check, Change over time and Infrastructure. An animation follows one BIRD question: two code definitions were swapped, the agent answered 22 instead of 13 with no warning, and a definition check would have caught the swap.">
 </picture>
 
-The [interactive map](https://www.mblessed.space) is on my site (Research statement, then Map). Icons: the Isoflow isopacks (MIT, see [attribution](assets/ATTRIBUTION.txt)).
-
-### Selected work
-
-**SLS Energy.** I built a metered billing engine (Python, FastAPI, PostgreSQL) that turns each site's daily energy readings into tariff-based PDF invoices for 9 client organisations. Invoicing went from 15+ days after month-end to two days. Invoices charge only for measured energy: days without a reading are left out, never estimated.
-
-**Athletics anomaly detection (MS thesis).** I crawled 1.58M World Athletics results from 19,712 competitions (2010–2025) and compared 8 statistical and machine-learning detectors against Athletics Integrity Unit sanctions. IEEE SDS 2026, Best Paper Honorable Mention. [Paper](https://ieeexplore.ieee.org/document/11540487) · [arXiv:2604.21953](https://arxiv.org/abs/2604.21953)
-
-**MININFRA (Rwanda's Ministry of Infrastructure).** I architected ClickHouse pipelines and a Grafana dashboard for the national infrastructure intelligence platform, built for planners and investors.
-
-**Sedge ([sedge.app](https://sedge.app)).** I built the Go backend of a text-to-SQL data platform and its query guardrail: one read-only SELECT, allow-listed functions, a 15 s timeout and a 10,000-row cap. It blocked all 61 attack queries written to test it.
-
-**Research results.**
-- Semantic-layer pilot on BIRD: with two code meanings swapped in the description an agent reads, all 9 runs across 3 models returned the wrong count, with no warning.
-- Hidden rows: under PostgreSQL row-level security, three cheaper models presented partial answers as complete in 70–95% of affected cases. [Report](https://www.mblessed.space/blog/does-an-ai-agent-know-when-it-cannot-see-all-the-data)
+The interactive version of this map is on [my site](https://www.mblessed.space). Icons: the Isoflow isopacks (MIT, see [attribution](assets/ATTRIBUTION.txt)).
 
 ### Code
 
