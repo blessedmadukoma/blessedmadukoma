@@ -1,6 +1,6 @@
 <h1>Hi 👋🏿, I'm Blessed!</h1>
 
-I'm a software and research engineer in Kigali, Rwanda (MS in Information Technology, Carnegie Mellon University, 2026). I build backend and data systems, and I research when AI agents give wrong answers about data, and how to catch them. Open to remote roles in backend, data and AI engineering.
+I'm a software and research engineer in Kigali, Rwanda (MS in Information Technology, Carnegie Mellon University, 2026). I build backend and data systems, and I research when AI agents give wrong answers about data, and how to catch them.
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,go,ts,fastapi,postgres,redis,docker,githubactions,grafana" alt="Python, Go, TypeScript, FastAPI, PostgreSQL, Redis, Docker, GitHub Actions, Grafana">
@@ -15,8 +15,6 @@ I'm a software and research engineer in Kigali, Rwanda (MS in Information Techno
 **[Sedge](https://sedge.app).** The Go backend of a text-to-SQL data platform, and its query guardrail: one read-only SELECT, allow-listed functions, a 15 s timeout and a 10,000-row cap. It blocked all 61 attack queries written to test it.
 
 **Athletics anomaly detection (MS thesis).** A platform over 1.58M World Athletics results from 19,712 competitions (2010–2025) that compares 8 statistical and machine-learning detectors against Athletics Integrity Unit sanctions. IEEE SDS 2026, Best Paper Honorable Mention. [Paper](https://ieeexplore.ieee.org/document/11540487) · [arXiv:2604.21953](https://arxiv.org/abs/2604.21953)
-
-Earlier: payment services in Go and TypeScript as a contract developer for Platnova and PassportMonie (2024).
 
 ### What I research
 
@@ -42,4 +40,4 @@ The interactive version of this map is on [my site](https://www.mblessed.space).
 
 [mblessed.space](https://www.mblessed.space) · [LinkedIn](https://www.linkedin.com/in/blessed-madukoma) · [blessedmadukoma@gmail.com](mailto:blessedmadukoma@gmail.com)
 
-Outside work, I read, play volleyball, and follow athletics closely enough that it became a research project.
+Outside work, I read manga, watch anime, play volleyball, and follow sports closely enough that athletics became a research project.
