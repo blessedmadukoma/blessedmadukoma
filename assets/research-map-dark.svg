@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="789" viewBox="0 0 900 789" role="img" aria-labelledby="title desc">
+<title id="title">Research map</title>
+<desc id="desc">The question: When can someone act on an answer computed from data, and which changes to the system make that true more often, at a cost they can afford? It has four parts. Meaning: Does the answer use the right definitions, and do those definitions match the data? Scope: Does the answer say what data it covered, including rows the user may not read? Evidence: What must come with an answer so that someone else can check it, and does the log show what actually ran? Change (planned): Which answers already given become wrong when data, definitions or access rules change? Meaning is the current focus. How answers are computed keeps changing. The question does not.</desc>
+<style>text{font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}@media (prefers-reduced-motion:no-preference){.rise{animation:rise .45s ease-out both}.draw{stroke-dasharray:1;animation:draw .35s ease-out both}.halo{animation:halo 2.4s ease-in-out 2.2s infinite}}@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}@keyframes halo{0%,100%{opacity:0}50%{opacity:.55}}</style>
+<rect x="0.5" y="0.5" width="899" height="788" rx="10" fill="#18181b" stroke="#3f3f46"/>
+<g class="rise" style="animation-delay:0s">
+<rect x="163.0" y="23" width="574" height="86" rx="6" fill="#211539" stroke="#a78bfa" stroke-width="2"/>
+<text font-size="14" fill="#f4f4f5" text-anchor="middle"><tspan x="450.0" y="51.0"><tspan font-weight="600">When can someone act on an answer computed from data, and</tspan></tspan><tspan x="450.0" y="71.0"><tspan font-weight="600">which changes to the system make that true more often, at a</tspan></tspan><tspan x="450.0" y="91.0"><tspan font-weight="600">cost they can afford?</tspan></tspan></text>
+</g>
+<g fill="none" stroke="#a1a1aa" stroke-width="2">
+<path class="draw" style="animation-delay:.3s;animation-duration:.25s" pathLength="1" d="M450.0 110 V124"/>
+<path class="draw" style="animation-delay:.55s" pathLength="1" d="M450.0 123 H124.2"/>
+<path class="draw" style="animation-delay:.55s" pathLength="1" d="M450.0 123 H775.8"/>
+<path class="draw" style="animation-delay:.9s;animation-duration:.15s" pathLength="1" d="M125.2 122 V134"/>
+<path class="draw" style="animation-delay:.9s;animation-duration:.15s" pathLength="1" d="M341.8 122 V134"/>
+<path class="draw" style="animation-delay:.9s;animation-duration:.15s" pathLength="1" d="M558.2 122 V134"/>
+<path class="draw" style="animation-delay:.9s;animation-duration:.15s" pathLength="1" d="M774.8 122 V134"/>
+</g>
+<g class="rise" style="animation-delay:1.00s">
+<path d="M120.2 134 H130.2 L125.2 140 Z" fill="#a1a1aa"/>
+<rect class="halo" x="19.0" y="144.0" width="212.5" height="154.0" rx="9" fill="none" stroke="#818cf8" stroke-width="4" opacity="0"/>
+<rect x="23.0" y="148.0" width="204.5" height="146" rx="6" fill="#1a192e" stroke="#818cf8" stroke-width="2"/>
+<text x="36.0" y="173.0" font-size="11" font-weight="700" letter-spacing="0.55" fill="#a5b4fc">MEANING</text>
+<text font-size="13" fill="#e4e4e7"><tspan x="36.0" y="195.7">Does the answer use the</tspan><tspan x="36.0" y="215.7">right definitions, and do</tspan><tspan x="36.0" y="235.7">those definitions match</tspan><tspan x="36.0" y="255.7">the data?</tspan></text>
+<rect x="22.5" y="305.5" width="205.5" height="121" rx="6" fill="none" stroke="#3f3f46" stroke-width="1" stroke-dasharray="1 2.5" stroke-linecap="round"/>
+<text font-size="12" fill="#d4d4d8"><tspan x="33.0" y="330.3"><tspan font-weight="600" fill="#f4f4f5">Research:</tspan> Ontologies and</tspan><tspan x="33.0" y="350.3">data quality</tspan></text>
+<text font-size="12" fill="#d4d4d8"><tspan x="33.0" y="370.3"><tspan font-weight="600" fill="#f4f4f5">Industry:</tspan> Semantic layers</tspan><tspan x="33.0" y="390.3">and ontologies</tspan></text>
+<rect x="22.5" y="437.5" width="205.5" height="227" rx="6" fill="none" stroke="#3f3f46" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="33.0" y="462.3" font-size="12" font-weight="600" fill="#f4f4f5">From my work</text>
+<circle cx="39.0" cy="482.7" r="1.9" fill="#d4d4d8"/>
+<text font-size="12" fill="#d4d4d8"><tspan x="49.0" y="486.3">Semantic-layer pilot: with</tspan><tspan x="49.0" y="506.3">two definitions swapped,</tspan><tspan x="49.0" y="526.3">all 9 runs of one BIRD</tspan><tspan x="49.0" y="546.3">question gave the wrong</tspan><tspan x="49.0" y="566.3">count without a warning</tspan></text>
+<circle cx="39.0" cy="584.7" r="1.9" fill="#d4d4d8"/>
+<text font-size="12" fill="#d4d4d8"><tspan x="49.0" y="588.3">Next: check the definitions</tspan><tspan x="49.0" y="608.3">against the data in both</tspan><tspan x="49.0" y="628.3">directions, and let the</tspan><tspan x="49.0" y="648.3">owner approve each fix</tspan></text>
+</g>
+<g class="rise" style="animation-delay:1.12s">
+<path d="M336.8 134 H346.8 L341.8 140 Z" fill="#a1a1aa"/>
+<rect x="239.5" y="148.0" width="204.5" height="146" rx="6" fill="#181d32" stroke="#60a5fa" stroke-width="2"/>
+<text x="252.5" y="173.0" font-size="11" font-weight="700" letter-spacing="0.55" fill="#93c5fd">SCOPE</text>
+<text font-size="13" fill="#e4e4e7"><tspan x="252.5" y="195.7">Does the answer say</tspan><tspan x="252.5" y="215.7">what data it covered,</tspan><tspan x="252.5" y="235.7">including rows the user</tspan><tspan x="252.5" y="255.7">may not read?</tspan></text>
+<rect x="239.0" y="305.5" width="205.5" height="121" rx="6" fill="none" stroke="#3f3f46" stroke-width="1" stroke-dasharray="1 2.5" stroke-linecap="round"/>
+<text font-size="12" fill="#d4d4d8"><tspan x="249.5" y="330.3"><tspan font-weight="600" fill="#f4f4f5">Research:</tspan> Fine-grained</tspan><tspan x="249.5" y="350.3">access control</tspan></text>
+<text font-size="12" fill="#d4d4d8"><tspan x="249.5" y="370.3"><tspan font-weight="600" fill="#f4f4f5">Industry:</tspan> Row-level security</tspan></text>
+<rect x="239.0" y="437.5" width="205.5" height="227" rx="6" fill="none" stroke="#3f3f46" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="249.5" y="462.3" font-size="12" font-weight="600" fill="#f4f4f5">From my work</text>
+<circle cx="255.5" cy="482.7" r="1.9" fill="#d4d4d8"/>
+<text font-size="12" fill="#d4d4d8"><tspan x="265.5" y="486.3">Hidden rows: cheaper</tspan><tspan x="265.5" y="506.3">models presented partial</tspan><tspan x="265.5" y="526.3">answers as complete in</tspan><tspan x="265.5" y="546.3">70–95% of affected cases</tspan></text>
+<circle cx="255.5" cy="564.7" r="1.9" fill="#d4d4d8"/>
+<text font-size="12" fill="#d4d4d8"><tspan x="265.5" y="568.3">Open question: tell the</tspan><tspan x="265.5" y="588.3">agent when hidden rows</tspan><tspan x="265.5" y="608.3">matter, with a limited leak</tspan></text>
+</g>
+<g class="rise" style="animation-delay:1.24s">
+<path d="M553.2 134 H563.2 L558.2 140 Z" fill="#a1a1aa"/>
+<rect x="456.0" y="148.0" width="204.5" height="146" rx="6" fill="#0f201e" stroke="#34d399" stroke-width="2"/>
+<text x="469.0" y="173.0" font-size="11" font-weight="700" letter-spacing="0.55" fill="#6ee7b7">EVIDENCE</text>
+<text font-size="13" fill="#e4e4e7"><tspan x="469.0" y="195.7">What must come with an</tspan><tspan x="469.0" y="215.7">answer so that someone</tspan><tspan x="469.0" y="235.7">else can check it, and</tspan><tspan x="469.0" y="255.7">does the log show what</tspan><tspan x="469.0" y="275.7">actually ran?</tspan></text>
+<rect x="455.5" y="305.5" width="205.5" height="121" rx="6" fill="none" stroke="#3f3f46" stroke-width="1" stroke-dasharray="1 2.5" stroke-linecap="round"/>
+<text font-size="12" fill="#d4d4d8"><tspan x="466.0" y="330.3"><tspan font-weight="600" fill="#f4f4f5">Research:</tspan> Data provenance</tspan></text>
+<text font-size="12" fill="#d4d4d8"><tspan x="466.0" y="350.3"><tspan font-weight="600" fill="#f4f4f5">Industry:</tspan> Agent</tspan><tspan x="466.0" y="370.3">observability and audit logs</tspan></text>
+<rect x="455.5" y="437.5" width="205.5" height="227" rx="6" fill="none" stroke="#3f3f46" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="466.0" y="462.3" font-size="12" font-weight="600" fill="#f4f4f5">From my work</text>
+<circle cx="472.0" cy="482.7" r="1.9" fill="#d4d4d8"/>
+<text font-size="12" fill="#d4d4d8"><tspan x="482.0" y="486.3">DataAgentBench: the</tspan><tspan x="482.0" y="506.3">harness caused 37% of</tspan><tspan x="482.0" y="526.3">the failed steps (16,293 of</tspan><tspan x="482.0" y="546.3">44,277), logged as the</tspan><tspan x="482.0" y="566.3">model’s</tspan></text>
+<circle cx="472.0" cy="584.7" r="1.9" fill="#d4d4d8"/>
+<text font-size="12" fill="#d4d4d8"><tspan x="482.0" y="588.3">smolagents: all 11</tspan><tspan x="482.0" y="608.3">versions tested silently</tspan><tspan x="482.0" y="628.3">swap a missing variable</tspan><tspan x="482.0" y="648.3">for a similar one</tspan></text>
+</g>
+<g class="rise" style="animation-delay:1.36s">
+<path d="M769.8 134 H779.8 L774.8 140 Z" fill="#a1a1aa"/>
+<rect x="672.5" y="148.0" width="204.5" height="146" rx="6" fill="#291613" stroke="#fb923c" stroke-width="2"/>
+<text x="685.5" y="173.0" font-size="11" font-weight="700" letter-spacing="0.55" fill="#fdba74">CHANGE (PLANNED)</text>
+<text font-size="13" fill="#e4e4e7"><tspan x="685.5" y="195.7">Which answers already</tspan><tspan x="685.5" y="215.7">given become wrong</tspan><tspan x="685.5" y="235.7">when data, definitions or</tspan><tspan x="685.5" y="255.7">access rules change?</tspan></text>
+<rect x="672.0" y="305.5" width="205.5" height="121" rx="6" fill="none" stroke="#3f3f46" stroke-width="1" stroke-dasharray="1 2.5" stroke-linecap="round"/>
+<text font-size="12" fill="#d4d4d8"><tspan x="682.5" y="330.3"><tspan font-weight="600" fill="#f4f4f5">Research:</tspan> Incremental view</tspan><tspan x="682.5" y="350.3">maintenance</tspan></text>
+<text font-size="12" fill="#d4d4d8"><tspan x="682.5" y="370.3"><tspan font-weight="600" fill="#f4f4f5">Industry:</tspan> Keeping AI</tspan><tspan x="682.5" y="390.3">answers, caches and reports</tspan><tspan x="682.5" y="410.3">current</tspan></text>
+<rect x="672.0" y="437.5" width="205.5" height="227" rx="6" fill="none" stroke="#3f3f46" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="682.5" y="462.3" font-size="12" font-weight="600" fill="#f4f4f5">From my work</text>
+<circle cx="688.5" cy="482.7" r="1.9" fill="#d4d4d8"/>
+<text font-size="12" fill="#d4d4d8"><tspan x="698.5" y="486.3">Planned: re-check only the</tspan><tspan x="698.5" y="506.3">answers a change touches</tspan></text>
+</g>
+<g class="rise" style="animation-delay:1.6s">
+<text font-size="12" fill="#a1a1aa" text-anchor="middle"><tspan x="450.0" y="693.3">How answers are computed keeps changing. The question does not.</tspan></text>
+<rect x="22.5" y="709.5" width="265.7" height="57" rx="6" fill="#211539" stroke="#5b21b6" stroke-width="1"/>
+<text font-size="12" fill="#f4f4f5" text-anchor="middle"><tspan x="155.3" y="732.3"><tspan font-weight="600">Before agents</tspan></tspan></text>
+<text font-size="12" fill="#d4d4d8" text-anchor="middle"><tspan x="155.3" y="752.3">SQL queries, reports and dashboards</tspan></text>
+<text x="302.7" y="743.8" font-size="16" text-anchor="middle" fill="#a1a1aa">→</text>
+<rect x="317.2" y="709.5" width="265.7" height="57" rx="6" fill="#211539" stroke="#5b21b6" stroke-width="1"/>
+<text font-size="12" fill="#f4f4f5" text-anchor="middle"><tspan x="450.0" y="732.3"><tspan font-weight="600">Today</tspan></tspan></text>
+<text font-size="12" fill="#d4d4d8" text-anchor="middle"><tspan x="450.0" y="752.3">AI agents that write queries and code</tspan></text>
+<text x="597.3" y="743.8" font-size="16" text-anchor="middle" fill="#a1a1aa">→</text>
+<rect x="611.8" y="709.5" width="265.7" height="57" rx="6" fill="#211539" stroke="#5b21b6" stroke-width="1"/>
+<text font-size="12" fill="#f4f4f5" text-anchor="middle"><tspan x="744.7" y="732.3"><tspan font-weight="600">Next</tspan></tspan></text>
+<text font-size="12" fill="#d4d4d8" text-anchor="middle"><tspan x="744.7" y="752.3">Whatever replaces agents</tspan></text>
+</g>
+</svg>
